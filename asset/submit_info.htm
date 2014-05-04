@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>SISFO GEMPA </title>
+      <!-- Mobile Specific 
+    =============================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <!-- Main CSS Files
+    =============================================== -->
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8BYcRRt_m6SgpeyXD0IzzRyhQY5EuUTA&sensor=true"></script>
+    <script type="text/javascript" src="/assets/plugins/elrte/js/elrte.min.js"></script>
+    <script type="text/javascript" src="/assets/plugins/elfinder/js/elfinder.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/assets/plugins/elrte/css/elrte.full.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/assets/plugins/elfinder/css/elfinder.css" media="screen" />
+
+    <!--  initialize google maps  -->
+
+    <script type="text/javascript">
+
+             $(document).ready(function() {
+                var opts = {
+                    cssClass : 'el-rte',
+                    height   : 300,
+                    toolbar  : 'normal',
+                    cssfiles : ['/assets/plugins/elrte/css/elrte-inner.css'], 
+                    fmAllow: true, 
+                    fmOpen : function(callback) {
+                        $('<div id="myelfinder"></div>').elfinder({
+                            url : '/assets/plugins/elfinder/connectors/php/connector.php', 
+                            lang : 'en', 
+                            height: 300, 
+                            dialog : { width : 640, modal : true, title : 'Select Image' }, 
+                            closeOnEditorCallback : true,
+                            editorCallback : callback
+                        });
+                    }
+                }
+                $('.elrte').elrte(opts);
+            });
+        </script>
+
+
+
+        <style type="text/css">
+        h1 {
+            font: 400 50px/1.1 Georgia, serif;
+        }
+        p {
+            font: 400 12px/1.6 Verdana, Helvetica, sans-serif;
+        }
+        </style>
+</head>
+<body>
+
+<div class="container">
+        <div class="row">    
+                <div class="span12">
+                     <h1><a href="/">GEMPA Indonesia!</a></h1>
+                     <hr/>
+                </div>
+
+                <div class="span12">
+                <h1>Kirim Informasi</h1>
+
+                <form class="form-horizontal" method="POST" action="">
+                    <fieldset>
+
+                    <!-- Text input-->
+                    <div class="control-group">
+                      <label class="control-label">Nama</label>
+                      <div class="controls">
+                        <input id="textinput" name="name" type="text" placeholder="nama anda" class="input-xlarge">
+                        
+                      </div>
+                    </div>
+                    <!-- Text input-->
+                    <div class="control-group">
+                      <label class="control-label">Email</label>
+                      <div class="controls">
+                        <input id="textinput" name="email" type="text" placeholder="example@gmail.com" class="input-xlarge">
+                        
+                      </div>
+                    </div>
+					<!-- Text input-->
+                    <div class="control-group">
+                      <label class="control-label">Telepon</label>
+                      <div class="controls">
+                        <input id="textinput" name="telepon" type="text" placeholder="+628XXXX" class="input-xlarge">
+                        
+                      </div>
+                    </div>
+                    <!-- Select Basic -->
+                    <div class="control-group">
+                      <label class="control-label">Gunung</label>
+                      <div class="controls">
+                        <select id="selectbasic" name="volcanos_id" class="input-xlarge">
+                         <option value="14" >Agung</option><option value="39" >Amasing</option><option value="41" >Ambang</option><option value="77" >Arjuno-Welirang</option><option value="98" >Awu</option><option value="118" >Baluran</option><option value="123" >Banda Api</option><option value="125" >Banua Wuhu</option><option value="134" >Batur</option><option value="141" >Belirang-Beriti</option><option value="147" >Besar</option><option value="149" >Bibinoi</option><option value="182" >Bratan</option><option value="224" >Cereme</option><option value="268" >Colo [Una Una]</option><option value="313" >Daun, Bukit</option><option value="318" >Dempo</option><option value="327" >Dieng Volcanic Complex</option><option value="338" >Dukono</option><option value="349" >Ebulobo</option><option value="355" >Egon</option><option value="361" >Emperor of China</option><option value="413" >Galunggung</option><option value="414" >Gamalama</option><option value="416" >Gamkonora</option><option value="425" >Gede</option><option value="458" >Guntur</option><option value="459" >Gunungapi Wetar</option><option value="488" >Hiri</option><option value="508" >Hulubelu</option><option value="511" >Hutapanjang</option><option value="513" >Ibu</option><option value="518" >Ijen</option><option value="521" >Iliboleng</option><option value="522" >Ililabalekan</option><option value="523" >Ilimuda</option><option value="524" >Iliwerung</option><option value="529" >Imun</option><option value="536" >Inielika</option><option value="537" >Inierie</option><option value="559" >Iya</option><option value="560" >Iyang-Argapura</option><option value="565" >Jailolo</option><option value="576" >Kaba</option><option value="593" >Karaha, Kawah</option><option value="594" >Karang</option><option value="595" >Karangetang [Api Siau]</option><option value="611" >Kawi-Butak</option><option value="614" >Kelimutu</option><option value="617" >Kelut</option><option value="618" >Kendang</option><option value="620" >Kerinci</option><option value="640" >Klabat</option><option value="662" >Krakatau</option><option value="675" >Kunyit</option><option value="692" >Lamongan</option><option value="704" >Lawu</option><option value="708" >Leroboleng</option><option value="712" >Lewotobi</option><option value="713" >Lewotolo</option><option value="725" >Lokon-Empung</option><option value="737" >Lubukraya</option><option value="738" >Lumut Balai, Bukit</option><option value="740" >Lurus</option><option value="751" >Mahawu</option><option value="754" >Makian</option><option value="756" >Malabar</option><option value="757" >Malang Plain</option><option value="761" >Malintang</option><option value="772" >Manuk</option><option value="774" >Marapi</option><option value="776" >Mare</option><option value="813" >Merapi</option><option value="814" >Merbabu</option><option value="846" >Moti</option><option value="854" >Muria</option><option value="870" >Ndete Napu</option><option value="886" >Nieuwerkerk</option><option value="892" >Nila</option><option value="952" >Paluweh</option><option value="957" >Papandayan</option><option value="961" >Patah</option><option value="963" >Patuha</option><option value="970" >Penanggungan</option><option value="971" >Pendan</option><option value="973" >Perbakti-Gagak</option><option value="976" >Peuet Sague</option><option value="993" >Poco Leok</option><option value="1006" >Pulosari</option><option value="1026" >Rajabasa</option><option value="1027" >Ranakah</option><option value="1028" >Ranau</option><option value="1031" >Raung</option><option value="1042" >Rinjani</option><option value="1055" >Ruang</option><option value="1072" >Salak</option><option value="1097" >Sangeang Api</option><option value="1098" >Sano, Wai</option><option value="1113" >Sarik-Gajah</option><option value="1126" >Sekincau Belirang</option><option value="1127" >Semeru</option><option value="1129" >Sempu</option><option value="1132" >Serua</option><option value="1134" >Seulawah Agam</option><option value="1148" >Sibayak</option><option value="1149" >Sibualbuali</option><option value="1156" >Sinabung</option><option value="1161" >Sirung</option><option value="1162" >Slamet</option><option value="1176" >Soputan</option><option value="1177" >Sorikmarapi</option><option value="1208" >Sukaria Caldera</option><option value="1211" >Sumbing</option><option value="1212" >Sumbing</option><option value="1214" >Sundoro</option><option value="1216" >Suoh</option><option value="1239" >Talagabodas</option><option value="1240" >Talakmau</option><option value="1241" >Talang</option><option value="1243" >Tambora</option><option value="1244" >Tampomas</option><option value="1247" >Tandikat</option><option value="1249" >Tangkubanparahu</option><option value="1251" >Tara, Batu</option><option value="1252" >Tarakan</option><option value="1267" >Telomoyo</option><option value="1268" >Telong, Bur ni</option><option value="1272" >Tengger Caldera</option><option value="1274" >Teon</option><option value="1283" >Tidore</option><option value="1284" >Tigalalu</option><option value="1296" >Toba</option><option value="1297" >Tobaru</option><option value="1298" >Todoko-Ranu</option><option value="1311" >Tondano Caldera</option><option value="1314" >Tongkoko</option><option value="1368" >Ungaran</option><option value="1475" >Wayang-Windu</option><option value="1483" >Wilis</option><option value="1487" >Wurlali</option><option value="1499" >Yersey</option>                        </select>
+                      </div>
+                    </div>
+
+                    <!-- Select Basic -->
+                    <div class="control-group">
+                      <label class="control-label">Jenis Informasi</label>
+                      <div class="controls">
+                        <select id="selectbasic" name="id_category" class="input-xlarge">
+                          <option value="1" >Profil</option><option value="2" >Lokasi</option><option value="3" >Ketinggian</option><option value="4" >Vegetasi</option><option value="5" >Pendakian</option><option value="6" >Poto</option><option value="7" >History</option>                        </select>
+                      </div>
+                    </div>
+
+                    <!-- Textarea -->
+                    <div class="control-group">
+                      <label class="control-label">Informasi</label>
+                      <div class="controls">                     
+                        <textarea id="textarea" class="elrte" name="info"></textarea>
+                      </div>
+                    </div>
+
+                    <!-- Button -->
+                    <div class="control-group">
+                      <label class="control-label"></label>
+                      <div class="controls">
+                        <button id="save" name="save" class="btn btn-primary">Simpan</button>
+                      </div>
+                    </div>
+
+                    </fieldset>
+                    </form>
+
+
+                <hr/>
+                </div>                        
+
+              
+        </div>
+</div>
+</body>
+</html>

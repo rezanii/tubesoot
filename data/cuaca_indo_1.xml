@@ -1,0 +1,230 @@
+
+
+<Cuaca><Tanggal>
+<Mulai>25 April 2014</Mulai>
+<Sampai>26 April 2014</Sampai>
+</Tanggal>
+<Isi><Row><Kota>Banda Aceh</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>57</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Medan</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>70</KelembapanMax>
+</Row><Row><Kota>Pekanbaru</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>52</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Batam</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>56</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Padang</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>21</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>68</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+</Row><Row><Kota>Jambi</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>67</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Palembang</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>59</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Pangkal Pinang</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>57</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Bengkulu</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Bandar Lampung</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>93</KelembapanMax>
+</Row><Row><Kota>Pontianak</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+</Row><Row><Kota>Samarinda</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>25</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Palangkaraya</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Banjarmasin</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+</Row><Row><Kota>Manado</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+</Row><Row><Kota>Gorontalo</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Palu</Kota>
+<Cuaca>Cerah Berawan</Cuaca>
+<SuhuMin>25</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>80</KelembapanMax>
+</Row><Row><Kota>Kendari</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>63</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+</Row><Row><Kota>Makassar</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>26</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>91</KelembapanMax>
+</Row><Row><Kota>Majene</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>25</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>66</KelembapanMin>
+<KelembapanMax>91</KelembapanMax>
+</Row><Row><Kota>Ternate</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>25</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>64</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+</Row><Row><Kota>Ambon</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>73</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+</Row><Row><Kota>Jayapura</Kota>
+<Cuaca>Hujan Sedang</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>98</KelembapanMax>
+</Row><Row><Kota>Sorong</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>27</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Biak</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>72</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Manokwari</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>27</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>65</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+</Row><Row><Kota>Merauke</Kota>
+<Cuaca>Hujan Sedang</Cuaca>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+</Row><Row><Kota>Kupang</Kota>
+<Cuaca>Cerah Berawan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+</Row><Row><Kota>Sumbawa Besar</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>51</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+</Row><Row><Kota>Mataram</Kota>
+<Cuaca>Cerah Berawan</Cuaca>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>52</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+</Row><Row><Kota>Denpasar</Kota>
+<Cuaca>Berawan</Cuaca>
+<SuhuMin>25</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>87</KelembapanMax>
+</Row><Row><Kota>Jakarta</Kota>
+<Cuaca>Hujan Sedang</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Serang</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+</Row><Row><Kota>Bandung</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+</Row><Row><Kota>Semarang</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+</Row><Row><Kota>Yogyakarta</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>62</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+</Row><Row><Kota>Surabaya</Kota>
+<Cuaca>Hujan Ringan</Cuaca>
+<SuhuMin>25</SuhuMin>
+<SuhuMax>34</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+</Row><Peringatan> - </Peringatan>
+</Isi></Cuaca>

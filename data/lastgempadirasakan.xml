@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Infogempa>
+<Gempa>
+	<Tanggal>07/11/2013</Tanggal>
+	<Jam>01:11:13 WIB</Jam>
+	<Lintang>2.34 LS</Lintang>
+	<Bujur>140.47 BT</Bujur>
+	<Magnitude>3.9 SR</Magnitude>
+	<Kedalaman>10 Km</Kedalaman>
+	<Keterangan>Pusat gempa berada di laut 26 km Barat Laut, Kab. Jayapura Papua</Keterangan>
+	<Dirasakan>Sentani II-III MMI</Dirasakan>
+	<Linkdetail>http://inatews.bmkg.go.id/gempa_dirasakan.php</Linkdetail>
+	<Namapeta>eqfelt.gif</Namapeta>
+</Gempa>
+</Infogempa>

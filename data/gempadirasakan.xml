@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<Infogempa>
+  <Gempa>
+     <Tanggal>07/11/2013-17:47:32 WIB</Tanggal>
+     <point><coordinates>-1.55, 138.83</coordinates></point>
+     <Posisi>1.55 LS 138.83 BT</Posisi>
+     <Magnitude>5.4 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 37 km Timur Laut Sarmi  </Keterangan>
+     <Dirasakan> III	Sarmi,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>07/11/2013-01:11:13 WIB</Tanggal>
+     <point><coordinates>-2.34, 140.47</coordinates></point>
+     <Posisi>2.34 LS 140.47 BT</Posisi>
+     <Magnitude>3.9 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 26 km Barat Laut, Kab. Jayapura </Keterangan>
+     <Dirasakan> II-III	Sentani,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>06/11/2013-19:36:30 WIB</Tanggal>
+     <point><coordinates>2.37, 128.52</coordinates></point>
+     <Posisi>2.37 LU 128.52 BT</Posisi>
+     <Magnitude>4.1 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada didarat 10 km TimurLaut PULAUMOROTAI-MALUT    </Keterangan>
+     <Dirasakan> II-III 	Morotai,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>05/11/2013-06:08:09 WIB</Tanggal>
+     <point><coordinates>-2.43, 140.62</coordinates></point>
+     <Posisi>2.43 LS 140.62 BT</Posisi>
+     <Magnitude>3.6 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Laut 15 km BaratLaut Kota Jayapura  </Keterangan>
+     <Dirasakan> II	Jayapura,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>03/11/2013-09:35:28 WIB</Tanggal>
+     <point><coordinates>-8.14, 107.86</coordinates></point>
+     <Posisi>8.14 LS 107.86 BT</Posisi>
+     <Magnitude>5 SR</Magnitude>
+     <Kedalaman>18 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 74 km BaratDaya Kab. Tasikmalaya  </Keterangan>
+     <Dirasakan> II	Pangandaran, I-II	Garut, I-II	Tasikmalaya, I-II	Ciamis,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>31/10/2013-22:29:32 WIB</Tanggal>
+     <point><coordinates>-8.96, 119.68</coordinates></point>
+     <Posisi>8.96 LS 119.68 BT</Posisi>
+     <Magnitude>3.8 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 51 km BaratDaya Manggarai Barat  </Keterangan>
+     <Dirasakan> II-III	Waingapu,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>31/10/2013-07:34:00 WIB</Tanggal>
+     <point><coordinates>-9.03, 119.67</coordinates></point>
+     <Posisi>9.03 LS 119.67 BT</Posisi>
+     <Magnitude>5.4 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 57 km BaratDaya Manggarai Barat  </Keterangan>
+     <Dirasakan> III-IV	Waingapu, III-IV	Bima, III	Ruteng, III	Labuan Bajo, II	Sumbawa, II	Tambolaka,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>31/10/2013-04:45:36 WIB</Tanggal>
+     <point><coordinates>-8.09, 107.89</coordinates></point>
+     <Posisi>8.09 LS 107.89 BT</Posisi>
+     <Magnitude>5.1 SR</Magnitude>
+     <Kedalaman>20 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 68 km Baratdaya Kabupaten Tasikmalaya  </Keterangan>
+     <Dirasakan> III	Pangandaran, II	Bandung,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>29/10/2013-17:16:19 WIB</Tanggal>
+     <point><coordinates>-3.84, 122.43</coordinates></point>
+     <Posisi>3.84 LS 122.43 BT</Posisi>
+     <Magnitude>4.6 SR</Magnitude>
+     <Kedalaman>11 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 18 km Barat Laut Kendari  </Keterangan>
+     <Dirasakan> III-IV	Konawe Utara, III-IV	Kendari,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>29/10/2013-06:27:47 WIB</Tanggal>
+     <point><coordinates>-4.95, 103.02</coordinates></point>
+     <Posisi>4.95 LS 103.02 BT</Posisi>
+     <Magnitude>4.8 SR</Magnitude>
+     <Kedalaman>30 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 58 km Barat daya Kaur  </Keterangan>
+     <Dirasakan> IV	Liwa, III	Lemong,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>27/10/2013-22:19:40 WIB</Tanggal>
+     <point><coordinates>-2.47, 121.47</coordinates></point>
+     <Posisi>2.47 LS 121.47 BT</Posisi>
+     <Magnitude>4.4 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di Darat 39 Km Tenggara LuwuTimur   </Keterangan>
+     <Dirasakan> II-III	Soroako,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>23/10/2013-16:20:08 WIB</Tanggal>
+     <point><coordinates>4.93, 95.88</coordinates></point>
+     <Posisi>4.93 LU 95.88 BT</Posisi>
+     <Magnitude>4 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 40 km TimurLaut Calang   </Keterangan>
+     <Dirasakan> II-III	Tangse,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>22/10/2013-12:40:34 WIB</Tanggal>
+     <point><coordinates>5.02, 95.89</coordinates></point>
+     <Posisi>5.02 LU 95.89 BT</Posisi>
+     <Magnitude>5.4 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 22 km Barat Laut Pidie  </Keterangan>
+     <Dirasakan> III	Mata ie , II-III	Sigli, III-IV	Aceh Besar, II	Meulaboh, V	Tangse,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>20/10/2013-18:06:43 WIB</Tanggal>
+     <point><coordinates>-2.07, 136.61</coordinates></point>
+     <Posisi>2.07 LS 136.61 BT</Posisi>
+     <Magnitude>4 SR</Magnitude>
+     <Kedalaman>8 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 34 km TimurLaut Waropen   </Keterangan>
+     <Dirasakan> II-III	Serui,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>20/10/2013-12:35:10 WIB</Tanggal>
+     <point><coordinates>-1.11, 99.48</coordinates></point>
+     <Posisi>1.11 LS 99.48 BT</Posisi>
+     <Magnitude>4.3 SR</Magnitude>
+     <Kedalaman>92 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 91 km BaratDaya Pariaman   </Keterangan>
+     <Dirasakan> II	Padang,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>19/10/2013-08:47:26 WIB</Tanggal>
+     <point><coordinates>4.53, 95.17</coordinates></point>
+     <Posisi>4.53 LU 95.17 BT</Posisi>
+     <Magnitude>4.6 SR</Magnitude>
+     <Kedalaman>50 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 63 km BaratDaya Kab. Aceh Jaya </Keterangan>
+     <Dirasakan> II	Banda Aceh, III	Aceh Jaya,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>18/10/2013-22:10:24 WIB</Tanggal>
+     <point><coordinates>-0.75, 119.41</coordinates></point>
+     <Posisi>0.75 LS 119.41 BT</Posisi>
+     <Magnitude>4.6 SR</Magnitude>
+     <Kedalaman>10 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 50 km BaratLaut Palu   </Keterangan>
+     <Dirasakan> II-III	Palu,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>18/10/2013-10:19:46 WIB</Tanggal>
+     <point><coordinates>-0.84, 131.28</coordinates></point>
+     <Posisi>0.84 LS 131.28 BT</Posisi>
+     <Magnitude>3.2 SR</Magnitude>
+     <Kedalaman>14 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di laut 4 km TimurLaut Sorong   </Keterangan>
+     <Dirasakan> II	Sorong,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>16/10/2013-21:18:36 WIB</Tanggal>
+     <point><coordinates>-2.35, 121.28</coordinates></point>
+     <Posisi>2.35 LS 121.28 BT</Posisi>
+     <Magnitude>3.2 SR</Magnitude>
+     <Kedalaman>23 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 25 km BaratLaut Soroako   </Keterangan>
+     <Dirasakan> II-III	Soroako,</Dirasakan>
+  </Gempa>
+  <Gempa>
+     <Tanggal>16/10/2013-21:00:04 WIB</Tanggal>
+     <point><coordinates>-2.38, 121.36</coordinates></point>
+     <Posisi>2.38 LS 121.36 BT</Posisi>
+     <Magnitude>3.2 SR</Magnitude>
+     <Kedalaman>29 Km</Kedalaman>
+     <_symbol>../gambar/k1.gif</_symbol>
+     <Keterangan>Pusat gempa berada di darat 29 km BaratLaut Soroako   </Keterangan>
+     <Dirasakan> II-III	Soroako,</Dirasakan>
+  </Gempa>
+</Infogempa>

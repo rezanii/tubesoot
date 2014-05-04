@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Infogempa>
+ <gempa>
+  <Tanggal>08-Nov-13</Tanggal>
+  <Jam>01:38:53 WIB</Jam>
+  <point><coordinates>126.40,3.90</coordinates></point>
+  <Lintang>3.90 LU</Lintang>
+  <Bujur>126.40 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>24 Km</Kedalaman>
+  <_symbol>imagesSWF/m2b.swf</_symbol>
+  <Wilayah1>63 km BaratDaya KEP-TALAUD-SULUT</Wilayah1>
+  <Wilayah2>102 km TimurLaut KEP-SANGIHE-SULUT</Wilayah2>
+  <Wilayah3>167 km TimurLaut SIAUTAGULANDANGBIARO-SULUT</Wilayah3>
+  <Wilayah4>308 km TimurLaut MANADO-SULUT</Wilayah4>
+  <Wilayah5>2448 km TimurLaut JAKARTA-INDONESIA</Wilayah5>
+  <Potensi>tidak berpotensi TSUNAMI</Potensi>
+ </gempa>
+</Infogempa>

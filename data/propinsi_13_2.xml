@@ -1,0 +1,428 @@
+
+
+<Cuaca>
+<Tanggal>
+<Mulai>26 April 2014</Mulai>
+<MulaiPukul>07.00</MulaiPukul>
+<Sampai>27 April 2014</Sampai>
+<SampaiPukul>07.00</SampaiPukul>
+</Tanggal>
+<Isi>
+<Row>
+<Kota>Cibinong</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.54412</Lintang>
+<Bujur>107.00244</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Pelabuhan Ratu</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.07288</Lintang>
+<Bujur>106.71684</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>24</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>56</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Cianjur</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.05156</Lintang>
+<Bujur>107.12645</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Soreang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.99909</Lintang>
+<Bujur>107.55706</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Garut</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.34250</Lintang>
+<Bujur>107.77823</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Singaparna</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.42885</Lintang>
+<Bujur>108.16424</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>97</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Ciamis</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.43690</Lintang>
+<Bujur>108.48638</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Kuningan</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.98826</Lintang>
+<Bujur>108.59138</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Sumber</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.75547</Lintang>
+<Bujur>108.57552</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>52</KelembapanMin>
+<KelembapanMax>93</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Majalengka</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.81747</Lintang>
+<Bujur>108.22775</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Sumedang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.81018</Lintang>
+<Bujur>107.97937</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Indramayu</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.44806</Lintang>
+<Bujur>108.19772</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>54</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Subang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.49390</Lintang>
+<Bujur>107.72629</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Purwakarta</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.58963</Lintang>
+<Bujur>107.43061</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Karawang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.28699</Lintang>
+<Bujur>107.36429</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Cerah Berawan</Cuaca>
+<_symbol>../imagesSWF/Cerah Berawan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>53</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Cikarang</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.20242</Lintang>
+<Bujur>107.13510</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>54</KelembapanMin>
+<KelembapanMax>93</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Ngamprah</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-</Lintang>
+<Bujur>-</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>56</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Bogor</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.59621</Lintang>
+<Bujur>106.79373</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Cisaat</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.94092</Lintang>
+<Bujur>106.90585</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>59</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Bandung</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.90992</Lintang>
+<Bujur>107.64691</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Cirebon</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.75021</Lintang>
+<Bujur>108.55259</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Bekasi</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.28521</Lintang>
+<Bujur>106.97309</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Cerah Berawan</Cuaca>
+<_symbol>../imagesSWF/Cerah Berawan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>54</KelembapanMin>
+<KelembapanMax>94</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Depok</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.38896</Lintang>
+<Bujur>106.81655</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>23</SuhuMin>
+<SuhuMax>33</SuhuMax>
+<KelembapanMin>55</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Cimahi</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-6.88191</Lintang>
+<Bujur>107.54861</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>57</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>20</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Tasikmalaya</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.36021</Lintang>
+<Bujur>108.21763</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Sedang</Cuaca>
+<_symbol>../imagesSWF/Hujan Sedang.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>31</SuhuMax>
+<KelembapanMin>60</KelembapanMin>
+<KelembapanMax>96</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Row>
+<Kota>Banjar</Kota>
+<point><coordinates>-</coordinates></point>
+<Lintang>-7.36996</Lintang>
+<Bujur>108.55901</Bujur>
+<Balai>BBMKG_Ciputat</Balai>
+<Propinsi>Jawa Barat</Propinsi>
+<Cuaca>Hujan Ringan</Cuaca>
+<_symbol>../imagesSWF/Hujan Ringan.swf</_symbol>
+<SuhuMin>22</SuhuMin>
+<SuhuMax>32</SuhuMax>
+<KelembapanMin>58</KelembapanMin>
+<KelembapanMax>95</KelembapanMax>
+<KecepatanAngin>25</KecepatanAngin>
+<ArahAngin>Barat</ArahAngin>
+</Row>
+<Peringatan> - </Peringatan>
+</Isi></Cuaca>

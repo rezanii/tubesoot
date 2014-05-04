@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<Infogempa>
+ <gempa>
+  <Tanggal>08-Nov-13</Tanggal>
+  <Jam>01:38:53 WIB</Jam>
+  <point><coordinates>126.4,3.9</coordinates></point>
+  <Lintang>3.9 LU</Lintang>
+  <Bujur>126.4 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>24 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2b.swf</_symbol>
+  <Wilayah>63 km BaratDaya KEP-TALAUD-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Nov-13</Tanggal>
+  <Jam>17:47:32 WIB</Jam>
+  <point><coordinates>138.83,-1.55</coordinates></point>
+  <Lintang>1.55 LS</Lintang>
+  <Bujur>138.83 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>37 km TimurLaut SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>05-Nov-13</Tanggal>
+  <Jam>18:42:32 WIB</Jam>
+  <point><coordinates>126.48,4.41</coordinates></point>
+  <Lintang>4.41 LU</Lintang>
+  <Bujur>126.48 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>38 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>38 km BaratLaut KEP-TALAUD-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Nov-13</Tanggal>
+  <Jam>18:03:41 WIB</Jam>
+  <point><coordinates>123.46,4.58</coordinates></point>
+  <Lintang>4.58 LU</Lintang>
+  <Bujur>123.46 BT</Bujur>
+  <Magnitude>5.7 SR</Magnitude>
+  <Kedalaman>529 Km</Kedalaman>
+  <_symbol>../imagesSWF/h2.swf</_symbol>
+  <Wilayah>256 km BaratLaut KEP-SANGIHE-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Nov-13</Tanggal>
+  <Jam>09:35:28 WIB</Jam>
+  <point><coordinates>107.86,-8.14</coordinates></point>
+  <Lintang>8.14 LS</Lintang>
+  <Bujur>107.86 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>18 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>74 km BaratDaya KAB-TASIKMALAYA-JABAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Nov-13</Tanggal>
+  <Jam>08:54:33 WIB</Jam>
+  <point><coordinates>120.81,-7.2</coordinates></point>
+  <Lintang>7.2 LS</Lintang>
+  <Bujur>120.81 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>125 km Tenggara KEP-SELAYAR-SULSEL</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Nov-13</Tanggal>
+  <Jam>00:18:18 WIB</Jam>
+  <point><coordinates>92.34,2.08</coordinates></point>
+  <Lintang>2.08 LU</Lintang>
+  <Bujur>92.34 BT</Bujur>
+  <Magnitude>5.6 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>421 km BaratDaya KAB-SIMEULUE-NAD</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>31-Oct-13</Tanggal>
+  <Jam>07:34:00 WIB</Jam>
+  <point><coordinates>119.67,-9.03</coordinates></point>
+  <Lintang>9.03 LS</Lintang>
+  <Bujur>119.67 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>57 km BaratDaya MANGGARAIBRT-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>31-Oct-13</Tanggal>
+  <Jam>04:45:36 WIB</Jam>
+  <point><coordinates>107.89,-8.09</coordinates></point>
+  <Lintang>8.09 LS</Lintang>
+  <Bujur>107.89 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>20 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>68 km BaratDaya KAB-TASIKMALAYA-JABAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Oct-13</Tanggal>
+  <Jam>22:45:28 WIB</Jam>
+  <point><coordinates>126.26,4.29</coordinates></point>
+  <Lintang>4.29 LU</Lintang>
+  <Bujur>126.26 BT</Bujur>
+  <Magnitude>5.6 SR</Magnitude>
+  <Kedalaman>93 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>61 km BaratDaya KEP-TALAUD-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>27-Oct-13</Tanggal>
+  <Jam>17:41:50 WIB</Jam>
+  <point><coordinates>130.39,-6.34</coordinates></point>
+  <Lintang>6.34 LS</Lintang>
+  <Bujur>130.39 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>159 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>177 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Oct-13</Tanggal>
+  <Jam>12:40:34 WIB</Jam>
+  <point><coordinates>95.89,5.02</coordinates></point>
+  <Lintang>5.02 LU</Lintang>
+  <Bujur>95.89 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>22 km BaratLaut Pidie,</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Oct-13</Tanggal>
+  <Jam>19:49:24 WIB</Jam>
+  <point><coordinates>114.72,-9.88</coordinates></point>
+  <Lintang>9.88 LS</Lintang>
+  <Bujur>114.72 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>147 km BaratDaya DENPASAR-BALI</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>14-Oct-13</Tanggal>
+  <Jam>00:32:44 WIB</Jam>
+  <point><coordinates>95.81,3.95</coordinates></point>
+  <Lintang>3.95 LU</Lintang>
+  <Bujur>95.81 BT</Bujur>
+  <Magnitude>5.8 SR</Magnitude>
+  <Kedalaman>14 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>65 km BaratDaya KAB-ACEHBARAT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>12-Oct-13</Tanggal>
+  <Jam>21:30:09 WIB</Jam>
+  <point><coordinates>122.16,0.77</coordinates></point>
+  <Lintang>0.77 LU</Lintang>
+  <Bujur>122.16 BT</Bujur>
+  <Magnitude>5.6 SR</Magnitude>
+  <Kedalaman>54 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>20 km BaratLaut BOALEMO-GORONTALO</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>11-Oct-13</Tanggal>
+  <Jam>20:12:55 WIB</Jam>
+  <point><coordinates>102.83,-6.03</coordinates></point>
+  <Lintang>6.03 LS</Lintang>
+  <Bujur>102.83 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>172 km BaratDaya KAUR-BENGKULU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>11-Oct-13</Tanggal>
+  <Jam>18:19:15 WIB</Jam>
+  <point><coordinates>128.32,-3.57</coordinates></point>
+  <Lintang>3.57 LS</Lintang>
+  <Bujur>128.32 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>17 km TimurLaut AMBON-MALUKU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>11-Oct-13</Tanggal>
+  <Jam>09:45:19 WIB</Jam>
+  <point><coordinates>127.07,-0.47</coordinates></point>
+  <Lintang>0.47 LS</Lintang>
+  <Bujur>127.07 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>100 km BaratDaya HALMAHERASELATAN-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Oct-13</Tanggal>
+  <Jam>14:13:34 WIB</Jam>
+  <point><coordinates>130.54,-6.6</coordinates></point>
+  <Lintang>6.6 LS</Lintang>
+  <Bujur>130.54 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>118 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>144 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>04-Oct-13</Tanggal>
+  <Jam>19:44:15 WIB</Jam>
+  <point><coordinates>128.36,1.7</coordinates></point>
+  <Lintang>1.7 LU</Lintang>
+  <Bujur>128.36 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>28 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>61 km TimurLaut HALMAHERAUTARA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>04-Oct-13</Tanggal>
+  <Jam>17:35:46 WIB</Jam>
+  <point><coordinates>121.75,-11.53</coordinates></point>
+  <Lintang>11.53 LS</Lintang>
+  <Bujur>121.75 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>38 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>114 km BaratDaya SABURAIJUA-NTT-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>03-Oct-13</Tanggal>
+  <Jam>05:21:42 WIB</Jam>
+  <point><coordinates>129.9,-6.96</coordinates></point>
+  <Lintang>6.96 LS</Lintang>
+  <Bujur>129.9 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>133 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>178 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Oct-13</Tanggal>
+  <Jam>17:06:56 WIB</Jam>
+  <point><coordinates>139.37,-2.05</coordinates></point>
+  <Lintang>2.05 LS</Lintang>
+  <Bujur>139.37 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>71 km Tenggara SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>29-Sep-13</Tanggal>
+  <Jam>07:19:59 WIB</Jam>
+  <point><coordinates>119.23,-2.32</coordinates></point>
+  <Lintang>2.32 LS</Lintang>
+  <Bujur>119.23 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>17 km BaratDaya MAMUJU-SULBAR</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Sep-13</Tanggal>
+  <Jam>22:12:55 WIB</Jam>
+  <point><coordinates>115.97,-9.92</coordinates></point>
+  <Lintang>9.92 LS</Lintang>
+  <Bujur>115.97 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>138 km BaratDaya LOMBOKTENGAH-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Sep-13</Tanggal>
+  <Jam>18:22:45 WIB</Jam>
+  <point><coordinates>124.93,-0.78</coordinates></point>
+  <Lintang>0.78 LS</Lintang>
+  <Bujur>124.93 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>114 km TimurLaut KEP-SULA-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>22-Sep-13</Tanggal>
+  <Jam>13:06:19 WIB</Jam>
+  <point><coordinates>93.3,5.77</coordinates></point>
+  <Lintang>5.77 LU</Lintang>
+  <Bujur>93.3 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>222 km BaratDaya KOTA-SABANG-NAD</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>21-Sep-13</Tanggal>
+  <Jam>08:39:14 WIB</Jam>
+  <point><coordinates>120.04,-7.48</coordinates></point>
+  <Lintang>7.48 LS</Lintang>
+  <Bujur>120.04 BT</Bujur>
+  <Magnitude>6.0 SR</Magnitude>
+  <Kedalaman>561 Km</Kedalaman>
+  <_symbol>../imagesSWF/h3.swf</_symbol>
+  <Wilayah>125 km TimurLaut MANGGARAIBRT-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>20-Sep-13</Tanggal>
+  <Jam>22:08:43 WIB</Jam>
+  <point><coordinates>126.99,2.22</coordinates></point>
+  <Lintang>2.22 LU</Lintang>
+  <Bujur>126.99 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>14 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>112 km BaratLaut HALMAHERABARAT-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Sep-13</Tanggal>
+  <Jam>14:15:54 WIB</Jam>
+  <point><coordinates>117.45,-7.88</coordinates></point>
+  <Lintang>7.88 LS</Lintang>
+  <Bujur>117.45 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>295 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>77 km BaratLaut BIMA-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>12-Sep-13</Tanggal>
+  <Jam>16:03:49 WIB</Jam>
+  <point><coordinates>128.39,-7.65</coordinates></point>
+  <Lintang>7.65 LS</Lintang>
+  <Bujur>128.39 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>117 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>221 km TimurLaut MALUKUBRTDAYA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>11-Sep-13</Tanggal>
+  <Jam>18:20:13 WIB</Jam>
+  <point><coordinates>139.26,-1.79</coordinates></point>
+  <Lintang>1.79 LS</Lintang>
+  <Bujur>139.26 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>57 km TimurLaut SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Sep-13</Tanggal>
+  <Jam>08:12:36 WIB</Jam>
+  <point><coordinates>122.24,1.71</coordinates></point>
+  <Lintang>1.71 LU</Lintang>
+  <Bujur>122.24 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>97 km BaratLaut GORONTALOUTARA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Sep-13</Tanggal>
+  <Jam>04:41:32 WIB</Jam>
+  <point><coordinates>122.26,1.6</coordinates></point>
+  <Lintang>1.6 LU</Lintang>
+  <Bujur>122.26 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>85 km BaratLaut GORONTALOUTARA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Sep-13</Tanggal>
+  <Jam>20:55:50 WIB</Jam>
+  <point><coordinates>130.53,-6.54</coordinates></point>
+  <Lintang>6.54 LS</Lintang>
+  <Bujur>130.53 BT</Bujur>
+  <Magnitude>5.7 SR</Magnitude>
+  <Kedalaman>161 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>150 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>02-Sep-13</Tanggal>
+  <Jam>03:31:53 WIB</Jam>
+  <point><coordinates>112.17,-10.56</coordinates></point>
+  <Lintang>10.56 LS</Lintang>
+  <Bujur>112.17 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>20 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>265 km BaratDaya KAB-MALANG-JATIM</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>01-Sep-13</Tanggal>
+  <Jam>18:52:32 WIB</Jam>
+  <point><coordinates>128.4,-7.75</coordinates></point>
+  <Lintang>7.75 LS</Lintang>
+  <Bujur>128.4 BT</Bujur>
+  <Magnitude>6.6 SR</Magnitude>
+  <Kedalaman>131 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>222 km TimurLaut MALUKUBRTDAYA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>01-Sep-13</Tanggal>
+  <Jam>00:56:59 WIB</Jam>
+  <point><coordinates>133.87,-4.35</coordinates></point>
+  <Lintang>4.35 LS</Lintang>
+  <Bujur>133.87 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>48 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>76 km Tenggara KAIMANA-PAPUABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>28-Aug-13</Tanggal>
+  <Jam>12:43:25 WIB</Jam>
+  <point><coordinates>100.66,-2.03</coordinates></point>
+  <Lintang>2.03 LS</Lintang>
+  <Bujur>100.66 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>24 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>74 km BaratLaut SUNGAIPENUH-JAMBI</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>25-Aug-13</Tanggal>
+  <Jam>11:00:04 WIB</Jam>
+  <point><coordinates>95.73,1.16</coordinates></point>
+  <Lintang>1.16 LU</Lintang>
+  <Bujur>95.73 BT</Bujur>
+  <Magnitude>5.6 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>166 km BaratDaya KAB-SIMEULUE-NAD</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>24-Aug-13</Tanggal>
+  <Jam>19:04:20 WIB</Jam>
+  <point><coordinates>102.08,-3.18</coordinates></point>
+  <Lintang>3.18 LS</Lintang>
+  <Bujur>102.08 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>117 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>14 km TimurLaut BENGKULUUTARA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Aug-13</Tanggal>
+  <Jam>05:37:49 WIB</Jam>
+  <point><coordinates>102.94,-4.94</coordinates></point>
+  <Lintang>4.94 LS</Lintang>
+  <Bujur>102.94 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>17 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>64 km BaratDaya KAUR-BENGKULU</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>23-Aug-13</Tanggal>
+  <Jam>01:58:39 WIB</Jam>
+  <point><coordinates>114.25,-10.58</coordinates></point>
+  <Lintang>10.58 LS</Lintang>
+  <Bujur>114.25 BT</Bujur>
+  <Magnitude>5.4 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>239 km BaratDaya DENPASAR-BALI</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>18-Aug-13</Tanggal>
+  <Jam>04:08:08 WIB</Jam>
+  <point><coordinates>128.38,2.88</coordinates></point>
+  <Lintang>2.88 LU</Lintang>
+  <Bujur>128.38 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>207 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>60 km BaratLaut PULAUMOROTAI-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>17-Aug-13</Tanggal>
+  <Jam>14:53:01 WIB</Jam>
+  <point><coordinates>139.1,-2.29</coordinates></point>
+  <Lintang>2.29 LS</Lintang>
+  <Bujur>139.1 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>59 km Tenggara SARMI-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>17-Aug-13</Tanggal>
+  <Jam>11:23:49 WIB</Jam>
+  <point><coordinates>93.25,5.91</coordinates></point>
+  <Lintang>5.91 LU</Lintang>
+  <Bujur>93.25 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>228 km BaratLaut KOTA-SABANG-NAD</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Aug-13</Tanggal>
+  <Jam>22:44:51 WIB</Jam>
+  <point><coordinates>121.6,-0.82</coordinates></point>
+  <Lintang>0.82 LS</Lintang>
+  <Bujur>121.6 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>53 km TimurLaut TOJOUNA-UNA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Aug-13</Tanggal>
+  <Jam>18:52:17 WIB</Jam>
+  <point><coordinates>117.24,-7.92</coordinates></point>
+  <Lintang>7.92 LS</Lintang>
+  <Bujur>117.24 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>291 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>96 km BaratLaut BIMA-NTB</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>16-Aug-13</Tanggal>
+  <Jam>01:45:47 WIB</Jam>
+  <point><coordinates>118.9,-9.95</coordinates></point>
+  <Lintang>9.95 LS</Lintang>
+  <Bujur>118.9 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>12 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>71 km BaratDaya SUMBABARAT-NTT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>15-Aug-13</Tanggal>
+  <Jam>11:05:56 WIB</Jam>
+  <point><coordinates>123.28,-0.04</coordinates></point>
+  <Lintang>0.04 LS</Lintang>
+  <Bujur>123.28 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>143 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>63 km BaratDaya BONEBOLANGO-GORONTALO</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>12-Aug-13</Tanggal>
+  <Jam>07:53:44 WIB</Jam>
+  <point><coordinates>130,-7.32</coordinates></point>
+  <Lintang>7.32 LS</Lintang>
+  <Bujur>130 BT</Bujur>
+  <Magnitude>6.5 SR</Magnitude>
+  <Kedalaman>121 Km</Kedalaman>
+  <_symbol>../imagesSWF/k3.swf</_symbol>
+  <Wilayah>155 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>10-Aug-13</Tanggal>
+  <Jam>14:20:04 WIB</Jam>
+  <point><coordinates>130.07,-6.89</coordinates></point>
+  <Lintang>6.89 LS</Lintang>
+  <Bujur>130.07 BT</Bujur>
+  <Magnitude>5.2 SR</Magnitude>
+  <Kedalaman>156 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>164 km BaratLaut MALUKUTENGGARABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Aug-13</Tanggal>
+  <Jam>23:01:36 WIB</Jam>
+  <point><coordinates>123.71,-0.46</coordinates></point>
+  <Lintang>0.46 LS</Lintang>
+  <Bujur>123.71 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>31 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>100 km BaratDaya BOLAANGMONGONDOWSEL-SULUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Aug-13</Tanggal>
+  <Jam>17:45:59 WIB</Jam>
+  <point><coordinates>110.87,-8.89</coordinates></point>
+  <Lintang>8.89 LS</Lintang>
+  <Bujur>110.87 BT</Bujur>
+  <Magnitude>5.5 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>93 km BaratDaya PACITAN-JATIM</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>08-Aug-13</Tanggal>
+  <Jam>04:44:07 WIB</Jam>
+  <point><coordinates>140.2,-2.29</coordinates></point>
+  <Lintang>2.29 LS</Lintang>
+  <Bujur>140.2 BT</Bujur>
+  <Magnitude>5.3 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>47 km BaratLaut KAB-JAYAPURA-PAPUA</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Aug-13</Tanggal>
+  <Jam>12:15:03 WIB</Jam>
+  <point><coordinates>97.82,2.1</coordinates></point>
+  <Lintang>2.1 LU</Lintang>
+  <Bujur>97.82 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>12 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>47 km BaratDaya KAB-ACEHSINGKIL</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>07-Aug-13</Tanggal>
+  <Jam>05:45:05 WIB</Jam>
+  <point><coordinates>120.97,-1.35</coordinates></point>
+  <Lintang>1.35 LS</Lintang>
+  <Bujur>120.97 BT</Bujur>
+  <Magnitude>5.1 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>50 km BaratDaya TOJOUNA-UNA-SULTENG</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>05-Aug-13</Tanggal>
+  <Jam>03:20:00 WIB</Jam>
+  <point><coordinates>131.24,-0.98</coordinates></point>
+  <Lintang>0.98 LS</Lintang>
+  <Bujur>131.24 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>10 Km</Kedalaman>
+  <_symbol>../imagesSWF/m2.swf</_symbol>
+  <Wilayah>12 km BaratDaya KOTA-SORONG-PAPUABRT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>05-Aug-13</Tanggal>
+  <Jam>02:16:53 WIB</Jam>
+  <point><coordinates>127.09,1.51</coordinates></point>
+  <Lintang>1.51 LU</Lintang>
+  <Bujur>127.09 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>83 Km</Kedalaman>
+  <_symbol>../imagesSWF/k2.swf</_symbol>
+  <Wilayah>53 km BaratLaut HALMAHERABARAT-MALUT</Wilayah>
+ </gempa>
+ <gempa>
+  <Tanggal>01-Aug-13</Tanggal>
+  <Jam>14:25:37 WIB</Jam>
+  <point><coordinates>123.86,-7.09</coordinates></point>
+  <Lintang>7.09 LS</Lintang>
+  <Bujur>123.86 BT</Bujur>
+  <Magnitude>5.0 SR</Magnitude>
+  <Kedalaman>626 Km</Kedalaman>
+  <_symbol>../imagesSWF/h2.swf</_symbol>
+  <Wilayah>152 km TimurLaut LEMBATA-NTT</Wilayah>
+ </gempa>
+</Infogempa>
